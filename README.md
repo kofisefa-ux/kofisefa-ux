@@ -1,16 +1,19 @@
-## Hi there 👋
+Hey, I'm Kofi Sefa 👋
 
-<!--
-**kofisefa-ux/kofisefa-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student learning to code, and I'm aiming to become a software engineer or an AI engineer (still deciding, so I'm exploring both).
 
-Here are some ideas to get you started:
+What I'm up to:
+Working through CS50x, currently learning C and Python
+Exploring both software engineering and AI to see what clicks
+Building small projects and pushing them here as I learn
+Tools I use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python · C · Scratch · Git & GitHub
+
+Projects
+
+My first CS50 projects are on the way. But for one of my problem sets in CS50, I built a top-down zombie 2d shootergame in Scratch.
+
+Outside of code:
+
+♟️ Chess · 🎮 Fortnite · 📚 Always learning something new
