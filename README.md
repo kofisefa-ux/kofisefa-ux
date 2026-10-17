@@ -1,19 +1,22 @@
-Hey, I'm Kofi Sefa 👋
+# Hey, I'm Kofi Sefa 👋
 
-I'm a high school student learning to code, and I'm aiming to become a software engineer or an AI engineer (still deciding, so I'm exploring both).
+I'm a high school student learning to code, and I'm aiming to become a **software engineer** or an **AI engineer** (still deciding, so I'm exploring both).
 
-What I'm up to:
-Working through CS50x, currently learning C and Python
-Exploring both software engineering and AI to see what clicks
-Building small projects and pushing them here as I learn
-Tools I use
+## What I'm up to
 
-Python · C · Scratch · Git & GitHub
+- Working through **CS50x**, currently learning **C** and **Python**
+- Exploring both software engineering and AI to see what clicks
+- Building new projects and pushing them here as I learn
+- Always open to learning new things
 
-Projects
+## Tools I use
 
-My first CS50 projects are on the way. But for one of my problem sets in CS50, I built a top-down zombie 2d shootergame in Scratch.
+**Python** · **C** · **Git & GitHub**
 
-Outside of code:
+## Projects
+
+My first projects are on the way. I'm building them as I go through CS50x, and I'll add them here once they're ready.
+
+## Outside of code
 
 ♟️ Chess · 🎮 Fortnite · 📚 Always learning something new
